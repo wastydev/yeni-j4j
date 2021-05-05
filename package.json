@@ -1,0 +1,22 @@
+{
+  "name": "wasty",
+  "version": "0.0.1",
+  "description": "wasty.",
+  "main": "wasty.js",
+  "scripts": {
+    "start": "node wasty.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.2",
+    "discord.js-selfbot": "^12.0.2",
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
